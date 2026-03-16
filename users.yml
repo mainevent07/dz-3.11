@@ -22,5 +22,16 @@ users:
         This is
         description of 
         skill-3
-  home_address: Unknown town, unknown street, house 23
-  pets: ["cat", "dog"]
+  home_address:
+    country: RF
+    town: msk
+    street: arbat
+    house: 23
+    apartment_number: 32
+  pets:
+    - name: cat-1
+      breed: siam
+      can_meow: true
+    - name: dog-2
+      breed: pitbull
+      can_meow: false
