@@ -1,0 +1,37 @@
+users:
+  admin: true
+  name: superadmin
+  age: 23
+  job_title: administrator
+  skill:
+    - name: skill-1
+      level: 3
+      description: |
+        This is
+        description of 
+        skill-1
+    - name: skill-2
+      level: 3
+      description: |
+        This is
+        description of 
+        skill-2
+    - name: skill-3
+      level: 3
+      description: |
+        This is
+        description of 
+        skill-3
+  home_address:
+    country: RF
+    town: msk
+    street: arbat
+    house: 23
+    apartment_number: 32
+  pets:
+    - name: cat-1
+      breed: siam
+      can_meow: true
+    - name: dog-2
+      breed: pitbull
+      can_meow: false
